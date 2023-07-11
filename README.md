@@ -1,1 +1,1 @@
-# saitama-token
+# saitama2 Token contract
